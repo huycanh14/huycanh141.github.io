@@ -1,0 +1,57 @@
+$background-image: url(https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+#index{
+	font-family: 'Pacifico', cursive;
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+    height: 100%; 
+    max-height: 100%; 
+	.container{
+		margin: 0;
+	   position: absolute;
+	   top: 50%;
+	   left: 50%;
+	   -ms-transform: translate(-50%, -50%);
+	   transform: translate(-50%, -50%);
+	}
+	background-image: $background-image;
+}
+
+#question{
+	font-family: 'Pacifico', cursive;
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+    height: 100%; 
+    max-height: 100%; 
+    background-image: $background-image;
+    .container{
+		margin: 0;
+	    position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    -ms-transform: translate(-50%, -50%);
+	    transform: translate(-50%, -50%);
+	
+		.number{
+			font-size: 3em;
+		}
+		.question{
+			font-size: 1.5em;
+		}
+		ul{
+			list-style-type: none;
+			font-size: 1.1em;
+		}
+		.content{
+		    ul{
+				  // height: 400px;
+				  // overflow: scroll;
+		    }
+		}
+	}
+}
+
+.showAnswer{
+	font-size: 2.5em;
+}

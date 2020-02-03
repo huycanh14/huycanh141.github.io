@@ -1,0 +1,483 @@
+{
+	"questions" : [
+		{
+		"number": "Câu 1",
+		"question": "Cảnh thích đồ uống nào nhất?",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Coffee"
+			},
+			{
+				"answer": "B",
+				"content": "Trà sữa"
+			},
+			{
+				"answer": "C",
+				"content": "Trà đá"
+			},
+			{
+				"answer" : "D",
+				"content": "Nước sấu"
+			},
+			{
+				"answer" : "E",
+				"content": "Nước dứa"
+			},
+			{
+				"answer" : "F",
+				"content": "Các loại nước hoa quả"
+			},
+			{
+				"answer" : "G",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "H",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 2",
+		"question": "Loài động vật nào mà Cảnh thích:",
+		"answers":[
+			{
+				"answer" : "A",
+				"content": "Mèo"
+			},
+			{
+				"answer" : "B",
+				"content": "Chó"
+			},
+			{
+				"answer" : "C",
+				"content": "Gà"
+			},
+			{
+				"answer" : "D",
+				"content": "Chim"
+			},
+			{
+				"answer" : "E",
+				"content": "Rắn"
+			},{
+				"answer" : "F",
+				"content": "Chuột"
+			},
+			{
+				"answer" : "G",
+				"content": "Cá"
+			},
+			{
+				"answer" : "H",
+				"content": "Hà Mã"
+			},
+			{
+				"answer" : "I",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "J",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 3",
+		"question": "Cảnh thích màu sắc nào",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Hồng"
+			},
+			{
+				"answer": "B",
+				"content": "Cam"
+			},
+			{
+				"answer": "C",
+				"content": "Đỏ"
+			},
+			{
+				"answer" : "D",
+				"content": "Lục"
+			},
+			{
+				"answer" : "E",
+				"content": "Lam"
+			},
+			{
+				"answer" : "F",
+				"content": "Chàm"
+			},
+			{
+				"answer" : "G",
+				"content": "Tím"
+			},
+			{
+				"answer" : "H",
+				"content": "Trắng"
+			},
+			{
+				"answer" : "I",
+				"content": "Xanh"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 4",
+		"question": "Cảnh thích loại quả nào",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Táo"
+			},
+			{
+				"answer": "B",
+				"content": "Ổi"
+			},
+			{
+				"answer": "C",
+				"content": "Bưởi"
+			},
+			{
+				"answer" : "D",
+				"content": "Chôm chôm"
+			},
+			{
+				"answer" : "E",
+				"content": "Mít"
+			},
+			{
+				"answer" : "F",
+				"content": "Xoài"
+			},
+			{
+				"answer" : "G",
+				"content": "Roi"
+			},
+			{
+				"answer" : "H",
+				"content": "Dưa hấu"
+			},
+			{
+				"answer" : "I",
+				"content": "Dâu da"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 5",
+		"question": "Cảnh thích loại chè nào",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Đỗ den"
+			},
+			{
+				"answer": "B",
+				"content": "Bưởi"
+			},
+			{
+				"answer": "C",
+				"content": "Sầu riêng"
+			},
+			{
+				"answer" : "D",
+				"content": "Thập cẩm"
+			},
+			{
+				"answer" : "E",
+				"content": "Dừa"
+			},
+			{
+				"answer" : "F",
+				"content": "Đậu đỏ"
+			},
+			{
+				"answer" : "G",
+				"content": "Gạo lứt"
+			},
+			{
+				"answer" : "H",
+				"content": "Ngô"
+			},
+			{
+				"answer" : "I",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "J",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 6",
+		"question": "Cảnh thích loại phim nào",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Tình cảm"
+			},
+			{
+				"answer": "B",
+				"content": "Ma"
+			},
+			{
+				"answer": "C",
+				"content": "Kinh Dị"
+			},
+			{
+				"answer" : "D",
+				"content": "Trinh thám"
+			},
+			{
+				"answer" : "E",
+				"content": "Hoạt hình"
+			},
+			{
+				"answer" : "F",
+				"content": "Hài hước"
+			},
+			{
+				"answer" : "G",
+				"content": "Hành động"
+			},
+			{
+				"answer" : "H",
+				"content": "Tài liệu"
+			},
+			{
+				"answer" : "I",
+				"content": "Sex"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 7",
+		"question": "Cảnh thích ăn gì",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Lẩu"
+			},
+			{
+				"answer": "B",
+				"content": "Nướng"
+			},
+			{
+				"answer": "C",
+				"content": "Chè"
+			},
+			{
+				"answer" : "D",
+				"content": "Cháo"
+			},
+			{
+				"answer" : "E",
+				"content": "Hoa quả dầm"
+			},
+			{
+				"answer" : "F",
+				"content": "Kem"
+			},
+			{
+				"answer" : "G",
+				"content": "Đồ xiên"
+			},
+			{
+				"answer" : "H",
+				"content": "Bánh bèo"
+			},
+			{
+				"answer" : "I",
+				"content": "Bún"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 8",
+		"question": "Cảnh thích đi ngắm Hà Nội lúc nào, khi nào",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Buồn"
+			},
+			{
+				"answer": "B",
+				"content": "Vui"
+			},
+			{
+				"answer": "C",
+				"content": "Buổi sáng"
+			},
+			{
+				"answer" : "D",
+				"content": "Buổi trưa"
+			},
+			{
+				"answer" : "E",
+				"content": "Buổi tối"
+			},
+			{
+				"answer" : "F",
+				"content": "Ban đêm"
+			},
+			{
+				"answer" : "G",
+				"content": "Khi có lễ hội"
+			},
+			{
+				"answer" : "H",
+				"content": "Trời mưa"
+			},
+			{
+				"answer" : "I",
+				"content": "Ngày đẹp trời"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 9",
+		"question": "Cảnh đã từng crush ai (tên facebook)",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Đỗ Trung Hiếu"
+			},
+			{
+				"answer": "B",
+				"content": "Hải Trần"
+			},
+			{
+				"answer": "C",
+				"content": "Hoa Mai"
+			},
+			{
+				"answer" : "D",
+				"content": "Thắng Phan"
+			},
+			{
+				"answer" : "E",
+				"content": "Hoàng Thị Hồng"
+			},
+			{
+				"answer" : "F",
+				"content": "Hoàng Đình Tuấn"
+			},
+			{
+				"answer" : "G",
+				"content": "Sâu Răng"
+			},
+			{
+				"answer" : "H",
+				"content": "Bánh Bao"
+			},
+			{
+				"answer" : "I",
+				"content": "Đồ Khờ"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	},
+	{
+		"number": "Câu 10",
+		"question": "Cảnh thích mùa nào trong năm",
+		"answers": [
+			{
+				"answer" : "A",
+				"content": "Xuân"
+			},
+			{
+				"answer": "B",
+				"content": "Hạ"
+			},
+			{
+				"answer": "C",
+				"content": "Thu"
+			},
+			{
+				"answer" : "D",
+				"content": "Đông"
+			},
+			{
+				"answer" : "E",
+				"content": "Xuân, Hạ"
+			},
+			{
+				"answer" : "F",
+				"content": "Hạ, Thu"
+			},
+			{
+				"answer" : "G",
+				"content": "Thu, Đông"
+			},
+			{
+				"answer" : "H",
+				"content": "Đông, Xuân"
+			},
+			{
+				"answer" : "I",
+				"content": "Xuân Thu"
+			},
+			{
+				"answer" : "J",
+				"content": "Tất cả đáp án trên"
+			},
+			{
+				"answer" : "K",
+				"content": "Không có đáp án nào"
+			}
+		]
+	}
+	]
+}

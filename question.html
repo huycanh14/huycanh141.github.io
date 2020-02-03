@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Welcome to my website</title>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/angular-material.min.css">
+    <link rel="stylesheet" type="text/css" href="css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+
+<body ng-app="myApp">
+    <div id="question" ng-controller="QuestionController">
+		
+		<div class="container jumbotron">
+			<div  ng-if="is_done == false">
+				
+			
+				<div class="row nbquestion animated fadeInDownBig">
+					<div class="col-12">
+						<span class="number">{{question.number}}</span><span class="question">: {{question.question}}</span>
+					</div>
+				</div>
+				<div class="row content animated fadeInUpBig">
+					<div class="col-10 offset-2">
+						<ul>
+							<li ng-repeat="item in question.answers" class="pt-2">
+								<input type="checkbox" checklist-model="_answer.answer" checklist-value="item.answer"> {{item.content}}
+							</li>					
+						</ul>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-2 offset-md-10">
+						<button class="btn btn-primary" ng-click="saveAnswer()">{{button}}</button>
+					</div>
+				</div>
+			</div>
+			<div class="row showAnswer animated rollIn" ng-if="is_done == true">
+				<div class="col-12 text-center">
+					Bạn đã đúng: <span>{{mess}}</span>
+				</div>
+			</div>
+		</div>    
+	</div>
+    <script src="js/jquery-3.3.1.min.js" type="text/javascript"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/smtp.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-route.min.js"></script>
+    <script src="js/angular-animate.min.js"></script>
+    <script src="js/angular-aria.min.js"></script>
+    <script src="js/angular-messages.min.js"></script>
+    <script src="js/angular-material.min.js"></script>
+    <script src="js/checklist-model.js"></script>
+    <script src="js/2.js"></script>
+</body>
+
+</html>
