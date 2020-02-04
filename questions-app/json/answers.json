@@ -1,0 +1,42 @@
+[
+	{
+		"number": "Câu 1",
+		"answer": "A"
+	},
+	{
+		"number": "Câu 2",
+		"answer": "A,B"
+	},
+	{
+		"number": "Câu 3",
+		"answer": "C,H"
+	},
+	{
+		"number": "Câu 4",
+		"answer": "J"
+	},
+	{
+		"number": "Câu 5",
+		"answer": "B,D"
+	},
+	{
+		"number": "Câu 6",
+		"answer": "B,C,E,F"
+	},
+	{
+		"number": "Câu 7",
+		"answer": "A,B,E,F,G"
+	},
+	{
+		"number": "Câu 8",
+		"answer": "A,F,G,I"
+	},
+	{
+		"number": "Câu 9",
+		"answer": "B,D"
+	},
+	{
+		"number": "Câu 10",
+		"answer": "K"
+	}
+]
